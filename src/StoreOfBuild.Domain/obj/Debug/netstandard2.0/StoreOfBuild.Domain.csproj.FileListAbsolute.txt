@@ -1,0 +1,8 @@
+C:\Users\Diego\Documents\meussites\udemy\LojaMateriais\src\StoreOfBuild.Domain\bin\Debug\netstandard2.0\StoreOfBuild.Domain.deps.json
+C:\Users\Diego\Documents\meussites\udemy\LojaMateriais\src\StoreOfBuild.Domain\bin\Debug\netstandard2.0\StoreOfBuild.Domain.dll
+C:\Users\Diego\Documents\meussites\udemy\LojaMateriais\src\StoreOfBuild.Domain\bin\Debug\netstandard2.0\StoreOfBuild.Domain.pdb
+C:\Users\Diego\Documents\meussites\udemy\LojaMateriais\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBuild.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\meussites\udemy\LojaMateriais\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBuild.Domain.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\meussites\udemy\LojaMateriais\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBuild.Domain.AssemblyInfo.cs
+C:\Users\Diego\Documents\meussites\udemy\LojaMateriais\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBuild.Domain.dll
+C:\Users\Diego\Documents\meussites\udemy\LojaMateriais\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBuild.Domain.pdb
